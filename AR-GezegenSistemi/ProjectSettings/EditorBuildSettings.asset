@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a26f095383d158847855add4844eee7c
+  - enabled: 1
+    path: Assets/Scenes/GalaksiSistemimiz.unity
+    guid: 1dedc5f99f85d3943a8b354ac2bdab87
+  - enabled: 1
+    path: Assets/Scenes/jupiter.unity
+    guid: 8cef6c646e831864dbc67f84f3744e7d
+  - enabled: 1
+    path: Assets/Scenes/dunya.unity
+    guid: d12a1364e79100346a7942f55f6143cd
+  - enabled: 1
+    path: Assets/Scenes/gunes.unity
+    guid: 281ecd49da1a46f4c932dbe4dbd16f83
+  - enabled: 1
+    path: Assets/Scenes/mars.unity
+    guid: 5dda953b2deb72846854c38811ddc94f
+  - enabled: 1
+    path: Assets/Scenes/merkur.unity
+    guid: ed890cd0fe5ba7d478f81ce15694cdad
+  - enabled: 1
+    path: Assets/Scenes/neptun.unity
+    guid: 458d8eb005655e74fb685b130903cea1
+  - enabled: 1
+    path: "Assets/Scenes/sat\xFCrn.unity"
+    guid: c859508068473da40aad13cd36da4e18
+  - enabled: 1
+    path: "Assets/Scenes/uran\xFCs.unity"
+    guid: f4d1bfc720b1054479bbdde38f0b648f
+  - enabled: 1
+    path: Assets/Scenes/venus.unity
+    guid: feaa015ec5948b0498f28e81a5def17d
+  m_configObjects: {}
